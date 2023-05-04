@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center"> Hi, I am Clément Marie-Brisson </h1>
+<h1 align="center"> Hi, I am Pierre Brunier </h1>
 
 ---
 
@@ -24,6 +24,6 @@ Here are some ideas to get you started:
 - 👀 I’m interested in creating python projects about data engineering and data science
 - 🌱 I’m currently learning machine and deep learning
 - 💞️ I’m collaborating with <a href="https://github.com/AlexisGuillotin">@AlexisGuillotin</a> and <a href="https://github.com/clementmariebrisson">@ClementMarieBrisson</a>
-- 📫 Reach me at clement.marie-brisson2.auditeur@lecnam.net
+- 📫 Reach me at brunier.pierre@outlook.fr
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PierreBrunier&layout=compact&hide=HTML,Jupyter%20Notebook" alt="Pierre Brunier" /></p>
