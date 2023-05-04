@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <h3 align="center"> A french apprentice in Big Data & AI</h3>
 
-- 👋 Hi, I’m @clementmariebrisson
+- 👋 Hi, I’m @PierreBrunier
 - 👀 I’m interested in creating python projects about data engineering and data science
 - 🌱 I’m currently learning machine and deep learning
 - 💞️ I’m collaborating with <a href="https://github.com/AlexisGuillotin">@AlexisGuillotin</a> and <a href="https://github.com/clementmariebrisson">@ClementMarieBrisson</a>
