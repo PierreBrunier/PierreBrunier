@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ---
 
-<h3 align="center"> A french apprentice in Big Data & AI</h3>
+<h3 align="center"> A french engineer, data specialist</h3>
 
 - 👋 Hi, I’m @PierreBrunier
 - 👀 I’m interested in creating python projects about data engineering and data science
